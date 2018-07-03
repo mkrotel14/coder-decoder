@@ -1,1 +1,1 @@
-"# A simple Coder and Decoder using C and Achives" 
+"# A simple Morse Coder and Decoder using C and Achives" 
